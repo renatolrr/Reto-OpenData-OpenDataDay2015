@@ -1,300 +1,163 @@
-NIF ,Apellidos y nombre ,Titulación ,Universidad ,Premio
-"","",Área: Ciencias,"",""
-71286812Z ,"Del Pino García, Raquel. ",Licenciado en Biotecnología. ,Universidad de León. ,Premio Nacional.
-28805081L ,"Domínguez Castells, Rocío. ",Diplomado en Estadística. ,Universidad de Granada. ,Premio Nacional.
-09022805C ,"Fuentes Paniagua, Elena. ",Licenciado en Química. ,Universidad de Alcalá. ,Premio Nacional.
-45828061D ,"García Ferrer, Irene. ",Licenciado en Bioquímica. ,Universidad Autónoma ,Premio Nacional.
-"","","",de Barcelona.,""
-41524043G ,"González Sastre, Alejandro. ",Licenciado en Biología. ,Universidad de ,Premio Nacional.
-"","","",Barcelona.,""
-48978910L ,"Murillo Arcila, Marina. ",Licenciado en Matemáticas. ,Universidad de Cádiz. ,Premio Nacional.
-X3413382K ,"Vázquez Schröder, Tamara. ",Licenciado en Física. ,Universidad de La ,Premio Nacional.
-"","","",Laguna.,""
-48822535K ,"Blasco Rodríguez, Víctor ",Licenciado en Biotecnología. ,Universidad Pablo de ,Mención.
-"",Francisco. ,"",Olavide de Sevilla.,""
-71222763C ,"Duro Castaño, Aroa. ",Licenciado en Química. ,Universidad de ,Mención.
-"","","",Castilla-La Mancha.,""
-33552541A ,"Indalecio Fernández, Guillermo. ",Licenciado en Física. ,Universidad de Santiago ,Mención.
-"","","",de Compostela.,""
-39877324Q ,"López Sánchez, Leonor. ",Diplomado en Nutrición ,Universidad Rovira y ,Mención.
-"","",Humana y Dietética. ,Virgili.,""
-72822543N ,"Lozano Moreda, Teresa. ",Licenciado en Bioquímica. ,Universidad de Navarra. ,Mención.
-77358005N ,"Ortega de San Luis, Clara. ",Licenciado en Biología. ,Universidad de Jaén. ,Mención.
-48454577V ,"Yepes Nicolás, Jesús. ",Licenciado en Matemáticas. ,Universidad de Murcia. ,Mención.
-71456038Y ,"Álvarez Fernández, Indira. ",Licenciado en Biología. ,Universidad de León. ,Accésit.
-28836548E ,"Gallego Yerga, Laura. ",Licenciado en Química. ,Universidad de Sevilla. ,Accésit.
-71281466G ,"García Lomillo, Javier. ",Licenciado en Ciencia y ,Universidad de Burgos. ,Accésit.
-"","",Tecnología de los Alimentos.,"",""
-71665230J ,"González Tejedo, Carmen. ",Licenciado en Bioquímica. ,Universidad de Oviedo. ,Accésit.
-70890942C ,"Montejo Berlingen, Javier. ",Licenciado en Física. ,Universidad de ,Accésit.
-"","","",Salamanca.,""
-09045919L ,"Rentero Rebollo, Inmaculada. ",Licenciado en Biotecnología. ,Universidad Autónoma ,Accésit.
-"","","",de Barcelona.,""
-45853635F ,"Toledo Díaz, Jorge. ",Licenciado en Matemáticas. ,Universidad de La ,Accésit.
-"","","",Laguna.,""
-"","",Área: Ciencias de la Salud,"",""
-45688579E ,"Chamorro de Vega, Esther. ",Graduada en Farmacia. ,Universidad de ,Premio Nacional.
-"","","",Salamanca.,""
-71632954Y ,"González Barredo, Francisco. ",Diplomado en Fisioterapia. ,Universidad de Oviedo. ,Premio Nacional.
-47463281K ,"González Fernández, Juan. ",Licenciado en Farmacia. ,Universidad ,Premio Nacional.
-"","","",Complutense de Madrid.,""
-50888781Q ,"Horcajada Reales, Celia. ",Licenciado en Medicina. ,Universidad ,Premio Nacional.
-"","","",Complutense de Madrid.,""
-11850914A ,"Manso Díaz, Gabriel. ",Licenciado en Veterinaria. ,Universidad ,Premio Nacional.
-"","","",Complutense de Madrid.,""
-45716059V ,"Manzano Moreno, Francisco Licenciado en Odontología. ","",Universidad de Granada. ,Premio Nacional.
-"",Javier.,"","",""
-40354145R ,"Puig Casas, Berta. Diplomado en Logopedia. ","",Universidad ,Premio Nacional.
-"","","",Complutense de Madrid.,""
-76022817C ,"Alegre Guerra, Fernando. Licenciado en Veterinaria. ","",Universidad de ,Mención.
-"","","",Extremadura.,""
-78973386B ,"Flores Placenti, Alba. Diplomado en Logopedia. ","",Universidad de Málaga. ,Mención.
-05307945M ,"Molina Villar, Ana Rosario. Licenciado en Odontología. ","",Universidad ,Mención.
-"","","",Complutense de Madrid.,""
-31736980Q ,"Oliva Martín, María José. Licenciado en Farmacia. ","",Universidad de Sevilla. ,Mención.
-78721027P ,"Plasencia Dorta, Estefanía. Diplomado en Fisioterapia. ","",Universidad de La ,Mención.
-"","","",Laguna.,""
-50761358J ,"Ramírez Martín, Daniel. Licenciado en Medicina. ","",Universidad ,Mención.
-"","","",Complutense de Madrid.,""
-12765926Y ,"Vázquez González, Miguel Ángel. Diplomado en Enfermería. ","",Universidad de Santiago ,Mención.
-"","","",de Compostela.,""
-72071776B ,"Carbó Laso, Esther. Licenciado en Medicina. ","",Universidad de ,Accésit.
-"","","",Cantabria.,""
-45773455M ,"Díaz Delgado, Josué. Licenciado en Veterinaria. ","",Universidad de Las ,Accésit.
-"","","",Palmas Gran Canaria.,""
-78852599C ,"Gil Rodríguez, Verónica. Diplomado en Logopedia. ","",Universidad de La ,Accésit.
-"","","",Laguna.,""
-29123031V ,"González Guallart, Amaya. Diplomado en Enfermería. ","",Universidad de ,Accésit.
-"","","",Zaragoza.,""
-50756173A ,"López Martínez, Javier. Licenciado en Odontología. ","",Universidad Ceu-San ,Accésit.
-"","","",Pablo.,""
-45871188B ,"Martínez Sernández, Victoria. Licenciado en Farmacia. ","",Universidad de Santiago ,Accésit.
-"","","",de Compostela.,""
-77355646E ,"Pérez Campos, María Amparo. Diplomado en Fisioterapia. ","",Universidad de Jaén. ,Accésit.
-"",Área: Ingeniería y Arquitectura,"","",""
-20214953T ,"Álvarez Guerra, Enrique. Ingeniero Químico. ","",Universidad de ,Premio Nacional.
-"","","",Cantabria.,""
-46795820C ,"Arbós Linio, Noemí. Ingeniero Técnico de ","",Universidad Politécnica ,Premio Nacional.
-"",Telecomunicación. ,"",de Catalunya.,""
-33344201C ,"Astáriz Núñez, Sharay. Ingeniero Técnico Industrial. ","",Universidad de Santiago ,Premio Nacional.
-"","","",de Compostela.,""
-53551038T ,"Ballesteros Duque, Salvador. Diplomado en Navegación ","",Universidad de Oviedo. ,Premio Nacional.
-"",Marítima.,"","",""
-16587188W ,"Carrero González, Carlos. Ingeniero Aeronáutico. ","",Universidad Politécnica ,Premio Nacional.
-"","","",de Madrid.,""
-52646899Z ,"Casañ Santarremigia, Miguel. Arquitecto Técnico. ","",Universidad Politécnica ,Premio Nacional.
-"","","",de Valencia.,""
-78504378L ,"Gil Martín, Daniel. Ingeniero Técnico en ","",Universidad de Las ,Premio Nacional.
-"",Topografía. ,"",Palmas Gran Canaria.,""
-51998112B ,"Laguna Cubero, Abraham. Ingeniero de Caminos, ","",Universidad Politécnica ,Premio Nacional.
-"",Canales y Puertos. ,"",de Madrid.,""
-03132224S ,"Mínguez Novella, Óscar. Arquitecto. ","",Universidad de Alcalá. ,Premio Nacional.
-71897731F ,"Rodríguez Robles, Desirée. Ingeniero Agrónomo. ","",Universidad de León. ,Premio Nacional.
-75718896K,"Rodríguez Ruiz, Francisco Jesús.",Ingeniero de ,Universidad de Sevilla.,Premio Nacional.
-"","",Telecomunicación.,"",""
-30981895K,"Ruiz López, Tomás.",Ingeniero en Informática.,Universidad de Granada.,Premio Nacional.
-77350599N,"Sánchez Gámez, Pablo.",Ingeniero en Geodesia y ,Universidad de Jaén.,Premio Nacional.
-"","",Cartografía.,"",""
-72508051E,"Uranga Celaya, Jon.",Ingeniero Industrial.,Universidad de Navarra.,Premio Nacional.
-21690105R,"Valor Miró, Juan Daniel.",Ingeniero Técnico en ,Universidad Politécnica ,Premio Nacional.
-"","",Informática.,de Valencia.,""
-45748990N,"Borrego Ollero, Juan Antonio.",Ingeniero Técnico de Obras ,Universidad de Córdoba.,Mención.
-"","",Públicas.,"",""
-52658579X,"Carretero Gallego, Antonio.",Ingeniero Técnico en Diseño ,Universidad Politécnica ,Mención.
-"","",Industrial.,de Valencia.,""
-16605387P,"Gómez Smyshlaeva, Irina.",Ingeniero Técnico Agrícola.,Universidad de La Rioja.,Mención.
-45676605P,"Gómez García, Jorge.",Ingeniero de Organización ,Universidad de Deusto.,Mención.
-"","",Industrial.,"",""
-50754304C,"González Ximénez de Embun, ",Ingeniero Agrónomo.,Universidad Politécnica ,Mención.
-"",Miguel.,"",de Madrid.,""
-44628378Y,"Lizárraga García, Enrique.",Ingeniero Industrial.,Universidad Pública de ,Mención.
-"","","",Navarra.,""
-33473625T,"Llorca García, Carlos.","Ingeniero de Caminos, ",Universidad Politécnica ,Mención.
-"","",Canales y Puertos.,de Valencia.,""
-16620864Y,"Marañón Grandes, Miguel.",Ingeniero Técnico en ,Universidad de La Rioja.,Mención.
-"","",Informática.,"",""
-47090768Q,"Martínez Cabezuelo, Beatriz.",Ingeniero Químico.,Universidad de ,Mención.
-"","","",Castilla-La Mancha.,""
-71290045G,"Merino Martínez, Mario.",Ingeniero Aeronáutico.,Universidad Politécnica ,Mención.
-"","","",de Madrid.,""
-47288242N,"Merlo Álvarez, Roberto.",Ingeniero en Informática.,Universidad Pontificia de ,Mención.
-"","","",Comillas.,""
-48332599P,"Moya Pascual, Sara.",Ingeniero Técnico Industrial.,Universidad Politécnica ,Mención.
-"","","",de Valencia.,""
-34266402J,"Pérez Cabo, David.",Ingeniero Técnico de ,Universidad de Vigo.,Mención.
-"","",Telecomunicación.,"",""
-47374709E,"Rico Alvariño, Alberto.",Ingeniero de ,Universidad de Vigo.,Mención.
-"","",Telecomunicación.,"",""
-47095124W,"Valiente Parra, Nicolás.",Ingeniero Técnico Forestal.,Universidad de ,Mención.
-"","","",Castilla-La Mancha.,""
-33569990H,"Arrazola Meseguer, María ",Ingeniero Técnico en Diseño ,Universidad Politécnica ,Accésit.
-"",Cristina.,Industrial.,de Valencia.,""
-51079525K,"Auton García, Laura.",Ingeniero Técnico en ,Universidad de Las ,Accésit.
-"","",Informática.,Palmas Gran Canaria.,""
-71285978P,"Camarero Coterillo, Cristóbal.",Ingeniero en Informática.,Universidad de ,Accésit.
-"","","",Cantabria.,""
-77807586N,"Carbonell Márquez, Juan ","Ingeniero de Caminos, ",Universidad de Granada.,Accésit.
-"",Francisco.,Canales y Puertos.,"",""
-15421794H,"Gandía Navalón, Cristina.",Ingeniero de Montes.,Universidad de Córdoba.,Accésit.
-45798220E,"Garrido Bosch, Enrique.",Ingeniero Aeronáutico.,Universidad Politécnica ,Accésit.
-"","","",de Valencia.,""
-50988070Z ,"Gómez Serrano, Javier. Ingeniero de ","",Universidad Politécnica ,Accésit.
-"",Telecomunicación. ,"",de Catalunya.,""
-15420829L ,"Juan Colás, José. Ingeniero Técnico de ","",Universidad Politécnica ,Accésit.
-"",Telecomunicación. ,"",de Valencia.,""
-22591431A ,"Navarro García, Roberto. Ingeniero Industrial. ","",Universidad Politécnica ,Accésit.
-"","","",de Valencia.,""
-48578183K ,"Navarro Menargues, Miguel. Ingeniero Técnico de Obras ","",Universidad de Alicante. ,Accésit.
-"",Públicas.,"","",""
-75158913L ,"Rodríguez Arco, Laura. Ingeniero Químico. ","",Universidad de Granada. ,Accésit.
-48995023D ,"San Juan Juan José, Yasmina. Ingeniero Geólogo. ","",Universidad ,Accésit.
-"","","",Complutense de Madrid.,""
-70882829A ,"Sánchez Gómez, Manuel. Ingeniero Técnico Agrícola. ","",Universidad de ,Accésit.
-"","","",Salamanca.,""
-44881640S ,"Valls Ayuso, Ana. Arquitecto. ","",Universidad Politécnica ,Accésit.
-"","","",de Valencia.,""
-53517533Y ,"Vázquez Álvarez, Ángela. Ingeniero Técnico Industrial. ","",Universidad de Santiago ,Accésit.
-"","","",de Compostela.,""
-"",Área: Ciencias Sociales y Jurídicas,"","",""
-70256350K ,"Aragón Tardón, Susana. Licenciado en Derecho. ","",Universidad ,Premio Nacional.
-"","","",Complutense de Madrid.,""
-41527093H ,"Barceló Soler, Joan. Licenciado en Ciencias ","",Universidad de ,Premio Nacional.
-"",Políticas y de la ,"",Barcelona.,""
-"",Administración.,"","",""
-80081528J ,"Bueno Guerra, Nereida. Licenciado en Psicología. ","",Universidad Camilo José ,Premio Nacional.
-"","","",Cela.,""
-45315556J ,"García Garnica, Marina de los Licenciado en ","",Universidad de Granada. ,Premio Nacional.
-"",Ángeles. Psicopedagogía.,"","",""
-53591245A ,"Hoyos López, Gloria. Licenciado en Comunicación ","",Universidad de Granada. ,Premio Nacional.
-"",Audiovisual.,"","",""
-34809095K ,"López Velasco, Antonio. Maestro. ","",Universidad de Murcia. ,Premio Nacional.
-29209978R ,"Martín Lozano, Pablo. Licenciado en Periodismo. ","",Universidad Cardenal ,Premio Nacional.
-"","","",Herrera C.E.U.,""
-29209978R ,"Martín Lozano, Pablo. Licenciado en Publicidad y ","",Universidad Cardenal ,Premio Nacional.
-"",Relaciones Públicas. ,"",Herrera C.E.U.,""
-44154238B ,"Montesinos Herranz, Milena. Graduada en Administración ","",Universidad de Deusto. ,Premio Nacional.
-"",y Dirección de Empresas.,"","",""
-26249833W ,"Parrado Martínez, Purificación. Licenciado en Administración ","",Universidad de Jaén. ,Premio Nacional.
-"",y Dirección de Empresas.,"","",""
-27346701T ,"Porres Cerdán, Sara Victoria. Licenciado en Pedagogía. ","",Universidad de Granada. ,Premio Nacional.
-16088031Z ,"Vega Bayo, Ainhoa. Licenciado en Economía. ","",Universidad del País ,Premio Nacional.
-"","","",Vasco.,""
-29093124X ,"Anadón Moreno, Juan Antonio. Diplomado en Trabajo Social. ","",Universidad de ,Mención.
-"","","",Zaragoza.,""
-53659355X ,"Calviño Martínez, Aída. Graduada en Estadística ","",Universidad ,Mención.
-"",Aplicada. ,"",Complutense de Madrid.,""
-72087909K ,"Escudero Fernández, Roberto. Licenciado en Periodismo. ","",Universidad de Navarra. ,Mención.
-71673883H ,"Fanjul Carretero, Sofía. Licenciado en Administración ","",Universidad de Oviedo. ,Mención.
-"",y Dirección de Empresas.,"","",""
-44846186G ,"Fernández Novo, Andrea. ",Licenciado en Sociología. ,Universidad de ,Mención.
-"","","",A Coruña.,""
-77718121V ,"Giménez Gualdo, Ana María. ",Licenciado en Pedagogía. ,Universidad de Murcia. ,Mención.
-77806177Y ,"Iriarte Gahete, Julia María. ",Licenciado en Psicología. ,U.N.E.D. ,Mención.
-76624787B ,"Martín Martín, Alberto. ",Diplomado en ,Universidad de Granada. ,Mención.
-"","",Biblioteconomía y ,"",""
-"","",Documentación.,"",""
-75723888E ,"Ocaña Gámiz, Javier. ",Licenciado en Derecho. ,Universidad de Almería. ,Mención.
-44780126T ,"Palomo Ferrera, Manuel Jesús. ",Maestro. ,Universidad de ,Mención.
-"","","",Extremadura.,""
-46898716Z ,"Varela Vázquez, Pedro. ",Licenciado en Economía. ,Universidad de Santiago ,Mención.
-"","","",de Compostela.,""
-47792427Z ,"Vera Mercado, Ana. ",Diplomado en Relaciones ,Universidad de ,Mención.
-"","",Laborales. ,Barcelona.,""
-51905352X ,"Arribas Kunnert, Susana. ",Diplomado en Gestión y ,Universidad Rey Juan ,Accésit.
-"","",Administración Pública. ,Carlos.,""
-48628777S ,"Asencio Gallego, José María. ",Licenciado en Derecho. ,Universidad de Alicante. ,Accésit.
-48617119H ,"Belando Pedreño, Noelia. ",Licenciado en Ciencias de la ,Universidad Miguel ,Accésit.
-"","",Actividad Física y del ,Hernández.,""
-"","",Deporte.,"",""
-77919089B ,"Besalú Casademont, Reinald. ",Licenciado en Sociología. ,Universidad de ,Accésit.
-"","","",Barcelona.,""
-72040146Y ,"Cobo Corrales, Carlos. ",Licenciado en ,Universidad de ,Accésit.
-"","",Psicopedagogía. ,Cantabria.,""
-79303804B ,"Fauria Planas, Albert. ",Licenciado en Administración ,Universidad Autónoma ,Accésit.
-"","",y Dirección de Empresas. ,de Barcelona.,""
-76261875Q ,"Lozano Botellero, Violeta Nazaret. ",Licenciado en Psicología. ,Universidad de Granada. ,Accésit.
-40368621X ,"Maynou Pujolràs, Laia. ",Licenciado en Economía. ,Universidad de Girona. ,Accésit.
-38433603M ,"Mesa Moreno, Eusebio. ",Graduado en Relaciones ,Universidad de ,Accésit.
-"","",Laborales. ,Barcelona.,""
-44166074W ,"Peña Alonso, Raquel. ",Graduada en Administración ,Universidad de Deusto. ,Accésit.
-"","",y Dirección de Empresas.,"",""
-74227930F ,"Pérez Sarmiento, Raquel. ",Diplomado en Relaciones ,Universidad Miguel ,Accésit.
-"","",Laborales. ,Hernández.,""
-78151570P ,"Plana Traveset, María. ",Maestro. ,Universidad de ,Accésit.
-"","","",Barcelona.,""
-"","",Área: Artes y Humanidades,"",""
-71439687P ,"Blanco Pérez, Aitor. ",Licenciado en Filología ,Universidad de ,Premio Nacional.
-"","",Clásica. ,Salamanca.,""
-15485065Q ,"Doménech de La Lastra, Pablo. ",Licenciado en Filosofía. ,Universidad de Oviedo. ,Premio Nacional.
-78635656J ,"García Hernández, Sheyla. ",Licenciado en Traducción e ,Universidad de Las ,Premio Nacional.
-"","",Interpretación. ,Palmas Gran Canaria.,""
-23279355C ,"Gómez Moya, Francisco Alberto. ",Licenciado en Filología ,Universidad de Murcia. ,Premio Nacional.
-"","",Inglesa.,"",""
-72754371N ,"Hernández González, Laura. ",Licenciado en Filología ,Universidad de ,Premio Nacional.
-"","",Hispánica. ,Valladolid.,""
-20487171J ,"Jovaní Gil, Carlos. ",Licenciado en Geografía. ,Universidad de Valencia ,Premio Nacional.
-"","","",Estudi General.,""
-25192798R,"Jreis Navarro, Laila Miriam.",Licenciado en Filología ,Universidad de Granada.,Premio Nacional.
-"","",Árabe.,"",""
-20048320W,"La Parra Pérez, Pablo.",Licenciado en Historia del ,Universidad de Valencia ,Premio Nacional.
-"","",Arte.,Estudi General.,""
-50846302H,"Martínez Villegas, Juan.",Licenciado en Bellas Artes.,Universidad de ,Premio Nacional.
-"","","",Barcelona.,""
-34834859W,"Montoro de Antonio, Alejandro.",Licenciado en Antropología ,Universidad ,Premio Nacional.
-"","",Social y Cultural.,Complutense de Madrid.,""
-44344355X,"Odria Tudanca, Ane.",Licenciado en Filología ,Universidad del País ,Premio Nacional.
-"","",Vasca.,Vasco.,""
-28814656A,"Ramos Sañudo, Ana María.",Licenciado en Filología ,Universidad de Sevilla.,Premio Nacional.
-"","",Francesa.,"",""
-05701048S,"Urda Lozano, Jesús Carlos.",Licenciado en Historia.,Universidad de ,Premio Nacional.
-"","","",Castilla-La Mancha.,""
-39879429M,"Aguilar Ortiz, Laura.",Licenciado en Geografía.,Universidad de Lleida.,Mención.
-45715301H,"Albusac Jorge, Miriam.",Licenciado en Historia y ,Universidad de Granada.,Mención.
-"","",Ciencias de la Música.,"",""
-75552954R,"Álvarez López, Cristóbal José.",Licenciado en Filología ,Universidad de Sevilla.,Mención.
-"","",Clásica.,"",""
-30221700E,"Carmona Tierno, Juan Manuel.",Licenciado en Filología ,Universidad de Sevilla.,Mención.
-"","",Hispánica.,"",""
-53386541E,"Contreras Corrochano, Alba.",Licenciado en Filología ,Universidad ,Mención.
-"","",Hebrea.,Complutense de Madrid.,""
-08862210B,"Fernández Galeano, Javier.",Licenciado en Antropología ,Universidad ,Mención.
-"","",Social y Cultural.,Complutense de Madrid.,""
-71293627K,"Guijarro Rodríguez, Diego Tomás.",Licenciado en Historia.,Universidad de ,Mención.
-"","","",Valladolid.,""
-78512146J,"Herrera Canino, María ",Licenciado en Traducción e ,Universidad de Las ,Mención.
-"",Magdalena.,Interpretación.,Palmas Gran Canaria.,""
-48907773K,"Macías Llaga, Israel.",Licenciado en Humanidades.,Universidad de Huelva.,Mención.
-20488089B,"Martín Laguna, Sofía.",Licenciado en Filología ,Universidad Jaume I.,Mención.
-"","",Inglesa.,"",""
-30989497X,"Molina Barea, María Carmen.",Licenciado en Historia del ,Universidad de Córdoba.,Mención.
-"","",Arte.,"",""
-11853380P,"Ríos Villar, Laura.",Licenciado en Bellas Artes.,Universidad ,Mención.
-"","","",Complutense de Madrid.,""
-70922623F,"Véliz Perales, Carissa.",Licenciado en Filosofía.,Universidad de ,Mención.
-"","","",Salamanca.,""
-05315628Y,"Agüero Carnerero, Cristina.",Licenciado en Historia del ,Universidad ,Accésit.
-"","",Arte.,Complutense de Madrid.,""
-51463347L,"Aguilar Hernández, Cristina.",Licenciado en Historia y ,Universidad ,Accésit.
-"","",Ciencias de la Música.,Complutense de Madrid.,""
-70896054A,"Blasco Torres, Ana Isabel.",Licenciado en Filología ,Universidad de ,Accésit.
-"","",Clásica.,Salamanca.,""
-70867552K,"Domínguez García, Lorena.",Licenciado en Filología ,Universidad de ,Accésit.
-"","",Hispánica.,Salamanca.,""
-48408782S,"Gil Sayas, Marta.",Licenciado en Traducción e ,Universidad Jaume I.,Accésit.
-"","",Interpretación.,"",""
-29146762N,"Grijalba Uche, Miguel.",Licenciado en Filosofía.,U.N.E.D.,Accésit.
-70054126J,"López de Frutos, Estela.",Licenciado en Bellas Artes.,Universidad de ,Accésit.
-"","","",Salamanca.,""
-43563454M,"Ranea García, Eloy.",Licenciado en Filología ,Universidad de ,Accésit.
-"","",Inglesa.,Barcelona.,""
-48441015W,"Reynés Linares, Aina.",Licenciado en Filología ,Universidad de Valencia ,Accésit.
-"","",Francesa.,Estudi General.,""
-30661268Z,"Rodamilans Ramos, Fernando.",Licenciado en Historia.,Universidad ,Accésit.
-"","","",Complutense de Madrid.,""
-X6233398F,"Rojas Solís, José Luis.",Licenciado en Humanidades.,Universidad de ,Accésit.
-"","","",Salamanca.,""
-70898051E,"Salvador Tato, Marta.",Graduada en Historia del ,Universidad de ,Accésit.
-"","",Arte.,Salamanca.,""
-47284917E,"Sobrin Soto, Adrián.",Licenciado en Teoría de la ,Universidad ,Accésit.
-"","",Literatura y Literatura ,Complutense de Madrid.,""
-"","",Comparada.,"",""
+NIF ,Apellidos y nombre ,Titulación ,Universidad 
+71286812Z ,Del Pino García, Raquel. ,Licenciado en Biotecnología. ,Universidad de León. 
+28805081L ,Domínguez Castells, Rocío. ,Diplomado en Estadística. ,Universidad de Granada. 
+09022805C ,Fuentes Paniagua, Elena. ,Licenciado en Química. ,Universidad de Alcalá. 
+45828061D ,García Ferrer, Irene. ,Licenciado en Bioquímica. ,Universidad Autónoma 
+41524043G ,González Sastre, Alejandro. ,Licenciado en Biología. ,Universidad de 
+48978910L ,Murillo Arcila, Marina. ,Licenciado en Matemáticas. ,Universidad de Cádiz. 
+X3413382K ,Vázquez Schröder, Tamara. ,Licenciado en Física. ,Universidad de La 
+48822535K ,Blasco Rodríguez, Víctor ,Licenciado en Biotecnología. ,Universidad Pablo de 
+71222763C ,Duro Castaño, Aroa. ,Licenciado en Química. ,Universidad de 
+33552541A ,Indalecio Fernández, Guillermo. ,Licenciado en Física. ,Universidad de Santiago 
+39877324Q ,López Sánchez, Leonor. ,Diplomado en Nutrición ,Universidad Rovira y 
+72822543N ,Lozano Moreda, Teresa. ,Licenciado en Bioquímica. ,Universidad de Navarra. 
+77358005N ,Ortega de San Luis, Clara. ,Licenciado en Biología. ,Universidad de Jaén. 
+48454577V ,Yepes Nicolás, Jesús. ,Licenciado en Matemáticas. ,Universidad de Murcia. 
+71456038Y ,Álvarez Fernández, Indira. ,Licenciado en Biología. ,Universidad de León. 
+28836548E ,Gallego Yerga, Laura. ,Licenciado en Química. ,Universidad de Sevilla. 
+71281466G ,García Lomillo, Javier. ,Licenciado en Ciencia y ,Universidad de Burgos. 
+71665230J ,González Tejedo, Carmen. ,Licenciado en Bioquímica. ,Universidad de Oviedo. 
+70890942C ,Montejo Berlingen, Javier. ,Licenciado en Física. ,Universidad de 
+09045919L ,Rentero Rebollo, Inmaculada. ,Licenciado en Biotecnología. ,Universidad Autónoma 
+45853635F ,Toledo Díaz, Jorge. ,Licenciado en Matemáticas. ,Universidad de La 
+45688579E ,Chamorro de Vega, Esther. ,Graduada en Farmacia. ,Universidad de 
+71632954Y ,González Barredo, Francisco. ,Diplomado en Fisioterapia. ,Universidad de Oviedo. 
+47463281K ,González Fernández, Juan. ,Licenciado en Farmacia. ,Universidad 
+50888781Q ,Horcajada Reales, Celia. ,Licenciado en Medicina. ,Universidad 
+11850914A ,Manso Díaz, Gabriel. ,Licenciado en Veterinaria. ,Universidad 
+45716059V ,Manzano Moreno, Francisco Licenciado en Odontología. ,,Universidad de Granada. 
+40354145R ,Puig Casas, Berta. Diplomado en Logopedia. ,,Universidad 
+76022817C ,Alegre Guerra, Fernando. Licenciado en Veterinaria. ,,Universidad de 
+78973386B ,Flores Placenti, Alba. Diplomado en Logopedia. ,,Universidad de Málaga. 
+05307945M ,Molina Villar, Ana Rosario. Licenciado en Odontología. ,,Universidad 
+31736980Q ,Oliva Martín, María José. Licenciado en Farmacia. ,,Universidad de Sevilla. 
+78721027P ,Plasencia Dorta, Estefanía. Diplomado en Fisioterapia. ,,Universidad de La 
+50761358J ,Ramírez Martín, Daniel. Licenciado en Medicina. ,,Universidad 
+12765926Y ,Vázquez González, Miguel Ángel. Diplomado en Enfermería. ,,Universidad de Santiago 
+72071776B ,Carbó Laso, Esther. Licenciado en Medicina. ,,Universidad de 
+45773455M ,Díaz Delgado, Josué. Licenciado en Veterinaria. ,,Universidad de Las 
+78852599C ,Gil Rodríguez, Verónica. Diplomado en Logopedia. ,,Universidad de La 
+29123031V ,González Guallart, Amaya. Diplomado en Enfermería. ,,Universidad de 
+50756173A ,López Martínez, Javier. Licenciado en Odontología. ,,Universidad Ceu-San 
+45871188B ,Martínez Sernández, Victoria. Licenciado en Farmacia. ,,Universidad de Santiago 
+77355646E ,Pérez Campos, María Amparo. Diplomado en Fisioterapia. ,,Universidad de Jaén. 
+20214953T ,Álvarez Guerra, Enrique. Ingeniero Químico. ,,Universidad de 
+46795820C ,Arbós Linio, Noemí. Ingeniero Técnico de ,,Universidad Politécnica 
+33344201C ,Astáriz Núñez, Sharay. Ingeniero Técnico Industrial. ,,Universidad de Santiago 
+53551038T ,Ballesteros Duque, Salvador. Diplomado en Navegación ,,Universidad de Oviedo. 
+16587188W ,Carrero González, Carlos. Ingeniero Aeronáutico. ,,Universidad Politécnica 
+52646899Z ,Casañ Santarremigia, Miguel. Arquitecto Técnico. ,,Universidad Politécnica 
+78504378L ,Gil Martín, Daniel. Ingeniero Técnico en ,,Universidad de Las 
+51998112B ,Laguna Cubero, Abraham. Ingeniero de Caminos, ,,Universidad Politécnica 
+03132224S ,Mínguez Novella, Óscar. Arquitecto. ,,Universidad de Alcalá. 
+71897731F ,Rodríguez Robles, Desirée. Ingeniero Agrónomo. ,,Universidad de León. 
+75718896K,Rodríguez Ruiz, Francisco Jesús.,Ingeniero de ,Universidad de Sevilla.
+30981895K,Ruiz López, Tomás.,Ingeniero en Informática.,Universidad de Granada.
+77350599N,Sánchez Gámez, Pablo.,Ingeniero en Geodesia y ,Universidad de Jaén.
+72508051E,Uranga Celaya, Jon.,Ingeniero Industrial.,Universidad de Navarra.
+21690105R,Valor Miró, Juan Daniel.,Ingeniero Técnico en ,Universidad Politécnica 
+45748990N,Borrego Ollero, Juan Antonio.,Ingeniero Técnico de Obras ,Universidad de Córdoba.
+52658579X,Carretero Gallego, Antonio.,Ingeniero Técnico en Diseño ,Universidad Politécnica 
+16605387P,Gómez Smyshlaeva, Irina.,Ingeniero Técnico Agrícola.,Universidad de La Rioja.
+45676605P,Gómez García, Jorge.,Ingeniero de Organización ,Universidad de Deusto.
+50754304C,González Ximénez de Embun, ,Ingeniero Agrónomo.,Universidad Politécnica 
+44628378Y,Lizárraga García, Enrique.,Ingeniero Industrial.,Universidad Pública de 
+33473625T,Llorca García, Carlos.,Ingeniero de Caminos, ,Universidad Politécnica 
+16620864Y,Marañón Grandes, Miguel.,Ingeniero Técnico en ,Universidad de La Rioja.
+47090768Q,Martínez Cabezuelo, Beatriz.,Ingeniero Químico.,Universidad de 
+71290045G,Merino Martínez, Mario.,Ingeniero Aeronáutico.,Universidad Politécnica 
+47288242N,Merlo Álvarez, Roberto.,Ingeniero en Informática.,Universidad Pontificia de 
+48332599P,Moya Pascual, Sara.,Ingeniero Técnico Industrial.,Universidad Politécnica 
+34266402J,Pérez Cabo, David.,Ingeniero Técnico de ,Universidad de Vigo.
+47374709E,Rico Alvariño, Alberto.,Ingeniero de ,Universidad de Vigo.
+47095124W,Valiente Parra, Nicolás.,Ingeniero Técnico Forestal.,Universidad de 
+33569990H,Arrazola Meseguer, María ,Ingeniero Técnico en Diseño ,Universidad Politécnica 
+51079525K,Auton García, Laura.,Ingeniero Técnico en ,Universidad de Las 
+71285978P,Camarero Coterillo, Cristóbal.,Ingeniero en Informática.,Universidad de 
+77807586N,Carbonell Márquez, Juan ,Ingeniero de Caminos, ,Universidad de Granada.
+15421794H,Gandía Navalón, Cristina.,Ingeniero de Montes.,Universidad de Córdoba.
+45798220E,Garrido Bosch, Enrique.,Ingeniero Aeronáutico.,Universidad Politécnica 
+50988070Z ,Gómez Serrano, Javier. Ingeniero de ,,Universidad Politécnica 
+15420829L ,Juan Colás, José. Ingeniero Técnico de ,,Universidad Politécnica 
+22591431A ,Navarro García, Roberto. Ingeniero Industrial. ,,Universidad Politécnica 
+48578183K ,Navarro Menargues, Miguel. Ingeniero Técnico de Obras ,,Universidad de Alicante. 
+75158913L ,Rodríguez Arco, Laura. Ingeniero Químico. ,,Universidad de Granada. 
+48995023D ,San Juan Juan José, Yasmina. Ingeniero Geólogo. ,,Universidad 
+70882829A ,Sánchez Gómez, Manuel. Ingeniero Técnico Agrícola. ,,Universidad de 
+44881640S ,Valls Ayuso, Ana. Arquitecto. ,,Universidad Politécnica 
+53517533Y ,Vázquez Álvarez, Ángela. Ingeniero Técnico Industrial. ,,Universidad de Santiago 
+70256350K ,Aragón Tardón, Susana. Licenciado en Derecho. ,,Universidad 
+41527093H ,Barceló Soler, Joan. Licenciado en Ciencias ,,Universidad de 
+80081528J ,Bueno Guerra, Nereida. Licenciado en Psicología. ,,Universidad Camilo José 
+45315556J ,García Garnica, Marina de los Licenciado en ,,Universidad de Granada. 
+53591245A ,Hoyos López, Gloria. Licenciado en Comunicación ,,Universidad de Granada. 
+34809095K ,López Velasco, Antonio. Maestro. ,,Universidad de Murcia. 
+29209978R ,Martín Lozano, Pablo. Licenciado en Periodismo. ,,Universidad Cardenal 
+29209978R ,Martín Lozano, Pablo. Licenciado en Publicidad y ,,Universidad Cardenal 
+44154238B ,Montesinos Herranz, Milena. Graduada en Administración ,,Universidad de Deusto. 
+26249833W ,Parrado Martínez, Purificación. Licenciado en Administración ,,Universidad de Jaén. 
+27346701T ,Porres Cerdán, Sara Victoria. Licenciado en Pedagogía. ,,Universidad de Granada. 
+16088031Z ,Vega Bayo, Ainhoa. Licenciado en Economía. ,,Universidad del País 
+29093124X ,Anadón Moreno, Juan Antonio. Diplomado en Trabajo Social. ,,Universidad de 
+53659355X ,Calviño Martínez, Aída. Graduada en Estadística ,,Universidad 
+72087909K ,Escudero Fernández, Roberto. Licenciado en Periodismo. ,,Universidad de Navarra. 
+71673883H ,Fanjul Carretero, Sofía. Licenciado en Administración ,,Universidad de Oviedo. 
+44846186G ,Fernández Novo, Andrea. ,Licenciado en Sociología. ,Universidad de 
+77718121V ,Giménez Gualdo, Ana María. ,Licenciado en Pedagogía. ,Universidad de Murcia. 
+77806177Y ,Iriarte Gahete, Julia María. ,Licenciado en Psicología. ,U.N.E.D. 
+76624787B ,Martín Martín, Alberto. ,Diplomado en ,Universidad de Granada. 
+75723888E ,Ocaña Gámiz, Javier. ,Licenciado en Derecho. ,Universidad de Almería. 
+44780126T ,Palomo Ferrera, Manuel Jesús. ,Maestro. ,Universidad de 
+46898716Z ,Varela Vázquez, Pedro. ,Licenciado en Economía. ,Universidad de Santiago 
+47792427Z ,Vera Mercado, Ana. ,Diplomado en Relaciones ,Universidad de 
+51905352X ,Arribas Kunnert, Susana. ,Diplomado en Gestión y ,Universidad Rey Juan 
+48628777S ,Asencio Gallego, José María. ,Licenciado en Derecho. ,Universidad de Alicante. 
+48617119H ,Belando Pedreño, Noelia. ,Licenciado en Ciencias de la ,Universidad Miguel 
+77919089B ,Besalú Casademont, Reinald. ,Licenciado en Sociología. ,Universidad de 
+72040146Y ,Cobo Corrales, Carlos. ,Licenciado en ,Universidad de 
+79303804B ,Fauria Planas, Albert. ,Licenciado en Administración ,Universidad Autónoma 
+76261875Q ,Lozano Botellero, Violeta Nazaret. ,Licenciado en Psicología. ,Universidad de Granada. 
+40368621X ,Maynou Pujolràs, Laia. ,Licenciado en Economía. ,Universidad de Girona. 
+38433603M ,Mesa Moreno, Eusebio. ,Graduado en Relaciones ,Universidad de 
+44166074W ,Peña Alonso, Raquel. ,Graduada en Administración ,Universidad de Deusto. 
+74227930F ,Pérez Sarmiento, Raquel. ,Diplomado en Relaciones ,Universidad Miguel 
+78151570P ,Plana Traveset, María. ,Maestro. ,Universidad de 
+71439687P ,Blanco Pérez, Aitor. ,Licenciado en Filología ,Universidad de 
+15485065Q ,Doménech de La Lastra, Pablo. ,Licenciado en Filosofía. ,Universidad de Oviedo. 
+78635656J ,García Hernández, Sheyla. ,Licenciado en Traducción e ,Universidad de Las 
+23279355C ,Gómez Moya, Francisco Alberto. ,Licenciado en Filología ,Universidad de Murcia. 
+72754371N ,Hernández González, Laura. ,Licenciado en Filología ,Universidad de 
+20487171J ,Jovaní Gil, Carlos. ,Licenciado en Geografía. ,Universidad de Valencia 
+25192798R,Jreis Navarro, Laila Miriam.,Licenciado en Filología ,Universidad de Granada.
+20048320W,La Parra Pérez, Pablo.,Licenciado en Historia del ,Universidad de Valencia 
+50846302H,Martínez Villegas, Juan.,Licenciado en Bellas Artes.,Universidad de 
+34834859W,Montoro de Antonio, Alejandro.,Licenciado en Antropología ,Universidad 
+44344355X,Odria Tudanca, Ane.,Licenciado en Filología ,Universidad del País 
+28814656A,Ramos Sañudo, Ana María.,Licenciado en Filología ,Universidad de Sevilla.
+05701048S,Urda Lozano, Jesús Carlos.,Licenciado en Historia.,Universidad de 
+39879429M,Aguilar Ortiz, Laura.,Licenciado en Geografía.,Universidad de Lleida.
+45715301H,Albusac Jorge, Miriam.,Licenciado en Historia y ,Universidad de Granada.
+75552954R,Álvarez López, Cristóbal José.,Licenciado en Filología ,Universidad de Sevilla.
+30221700E,Carmona Tierno, Juan Manuel.,Licenciado en Filología ,Universidad de Sevilla.
+53386541E,Contreras Corrochano, Alba.,Licenciado en Filología ,Universidad 
+08862210B,Fernández Galeano, Javier.,Licenciado en Antropología ,Universidad 
+71293627K,Guijarro Rodríguez, Diego Tomás.,Licenciado en Historia.,Universidad de 
+78512146J,Herrera Canino, María ,Licenciado en Traducción e ,Universidad de Las 
+48907773K,Macías Llaga, Israel.,Licenciado en Humanidades.,Universidad de Huelva.
+20488089B,Martín Laguna, Sofía.,Licenciado en Filología ,Universidad Jaume I.
+30989497X,Molina Barea, María Carmen.,Licenciado en Historia del ,Universidad de Córdoba.
+11853380P,Ríos Villar, Laura.,Licenciado en Bellas Artes.,Universidad 
+70922623F,Véliz Perales, Carissa.,Licenciado en Filosofía.,Universidad de 
+05315628Y,Agüero Carnerero, Cristina.,Licenciado en Historia del ,Universidad 
+51463347L,Aguilar Hernández, Cristina.,Licenciado en Historia y ,Universidad 
+70896054A,Blasco Torres, Ana Isabel.,Licenciado en Filología ,Universidad de 
+70867552K,Domínguez García, Lorena.,Licenciado en Filología ,Universidad de 
+48408782S,Gil Sayas, Marta.,Licenciado en Traducción e ,Universidad Jaume I.
+29146762N,Grijalba Uche, Miguel.,Licenciado en Filosofía.,U.N.E.D.
+70054126J,López de Frutos, Estela.,Licenciado en Bellas Artes.,Universidad de 
+43563454M,Ranea García, Eloy.,Licenciado en Filología ,Universidad de 
+48441015W,Reynés Linares, Aina.,Licenciado en Filología ,Universidad de Valencia 
+30661268Z,Rodamilans Ramos, Fernando.,Licenciado en Historia.,Universidad 
+X6233398F,Rojas Solís, José Luis.,Licenciado en Humanidades.,Universidad de 
+70898051E,Salvador Tato, Marta.,Graduada en Historia del ,Universidad de 
+47284917E,Sobrin Soto, Adrián.,Licenciado en Teoría de la ,Universidad 
