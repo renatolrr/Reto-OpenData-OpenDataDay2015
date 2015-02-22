@@ -6,7 +6,16 @@ Reto OpenData OpenDataDay 2015
 1. Se ha abierto una hoja de calculo compartida: https://docs.google.com/spreadsheets/d/1GOiHV3CAgWwD6h-eJwpfj04QRG0wRhZC0tquGFSQ1c0/edit#gid=1699420939
 2. Paralelamente se crea repositorio en github y se van creando los issues correspondientes: https://github.com/renatolrr/Reto-OpenData-OpenDataDay2015 
 3. Debido a la cantidad de datos a analizar, se determina el área geográfica de la Comunidad de Andalucía.  
-4. Buscado y encontrado un buen indicador económico para Granada: www.sepe.es   
+4. Buscado y encontrado un buen indicador económico para Granada: www.sepe.es  
+
+Diagrama de Gantt  
+![Diagrama de Gantt ](/Project/Diagrama de Gantt.png)  
+Diagrama de red
+![Diagrama de red ](/Project/Diagrama de red.png)  
+Resumen  
+![Resumen](/Project/Resumen.png)  
+Nota: la carga de trabajo es... 64 días.
+
 
 
 ##Resultados  
@@ -23,5 +32,10 @@ He cogido esas tres ramas porque en primer lugar quería ver cómo podría afect
 Luego me he preguntado qué pasaría con las ciencias puras....
 y luego me he hecho la misma pregunta con las carreras más funcionales, como son las económicas y jurídicas
 En fins.. 
+
+Algunos: reniegan de programas como Python, cuando realmente hay que acordarse de los formatos de las tablas.
+
+Renato: " Por que le llaman Transparencia cuando quieren decir m..." (misterio)
+http://es.wikipedia.org/wiki/%C2%BFPor_qu%C3%A9_lo_llaman_amor_cuando_quieren_decir_sexo%3F
 
 ##Historia a contar  
