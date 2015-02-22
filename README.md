@@ -14,7 +14,7 @@ Diagrama de red
 ![Diagrama de red ](/Project/Diagrama de red.png)  
 Resumen  
 ![Resumen](/Project/Resumen.png)  
-Nota: la carga de trabajo es... 64 días.
+Nota: la carga de trabajo es... 64 horas en dos días.
 
 
 
@@ -35,7 +35,7 @@ En fins..
 
 Algunos: reniegan de programas como Python, cuando realmente hay que acordarse de los formatos de las tablas.
 
-Renato: " Por que le llaman Transparencia cuando quieren decir m..." (misterio)
+Renato: " Por que le llaman Transparencia cuando quieren decir m..." (misterio)  
 http://es.wikipedia.org/wiki/%C2%BFPor_qu%C3%A9_lo_llaman_amor_cuando_quieren_decir_sexo%3F
 
 ##Historia a contar  
