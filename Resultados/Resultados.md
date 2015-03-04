@@ -7,14 +7,8 @@ Se trata del criterio más básico que debe cumplir un portal de transparencia: 
 
 |Caso 1: dependiente |Caso 2: independiente |
 |-----------|----------:|:----------|
-| ugr.es/transparencia | transparente.ugr.es | 
+| ugr.es/transparencia |transparente.ugr.es | 
  
-
-Caso 1: dependiente
-ugr.es/transparencia
-Caso 2: independiente
-transparente.ugr.es
-
 
 En el caso 1, el portal de transparencia se encontraría alojado dentro de la propia página web de la institución (ugr.es). Esto implica que el usuario medio no podrá volver fácilmente a la página principal del portal pues no dispondrá de una pestaña “Inicio” correspondiente con ugr.es/transparencia. Por otra parte, este detalle también dificulta la navegación en el portal, pues es relativamente sencillo “perderse” dentro de la web a través de redirecciones a otras secciones y encontrarse, sin previo aviso, en un dominio  como  ugr.es/pages/gobierno/consejo_social, por poner un ejemplo. En este caso concreto, el usuario debería deshacer el recorrido de las páginas o volver de nuevo a la página principal (ugr.es) para posicionarse en el apartado correspondiente al portal de transparencia (ugr.es/transparencia) y comenzar su búsqueda de nuevo.
 En el caso 2, el portal de transparencia se encuentra alojado en un dominio propio, por lo que el usuario medio puede volver fácilmente a la página principal del sitio y así evitar cualquier desorientación, dado que el propio portal le mantendrá dentro de unos límites técnicos. De igual modo, en el caso de mostrar información o enlaces de consulta a otros sitios web independientes, el propio portal debe abrir los enlaces en una pestaña nueva de manera automática (sin necesidad de que el usuario seleccione esta opción).
