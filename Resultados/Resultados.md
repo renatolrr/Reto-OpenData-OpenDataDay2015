@@ -18,26 +18,26 @@ En el caso 2, el portal de transparencia se encuentra alojado en un dominio prop
 ##Criterio 2: buscador en el sitio.  
 Éste es el segundo criterio básico de un portal de transparencia y se corresponde directamente con el derecho de acceso a la información: ¿dispone la plataforma de un buscador de información dentro del sitio? En caso negativo, a pesar de la buena organización del portal ciertos datos pueden mantenerse inaccesibles y quedar ocultos para el ciudadano.  
 
-Criterio 3: tipo de archivo predominante.
+##Criterio 3: tipo de archivo predominante.  
 Relacionado con el derecho al uso de la información obtenida: ¿en qué formato se muestran los datos? ¿Se trata de un formato abierto?
 Para calificar estos datos lo recomendable es basarse en la popular clasificación de Tim Berners-Lee , disponible en http://5stardata.info/ .
 
-Criterio 4: contacto.
+##Criterio 4: contacto.  
 Este criterio está vinculado al derecho a obtener una resolución motivada y se relaciona con el nivel de participación ciudadana que el portal ofrece al usuario: ¿existe un formulario de contacto para la solicitud de datos o la atención de dudas? ¿Se especifica un correo electrónico donde el usuario pueda contactar fácilmente?
 
-Criterio 5: específico. Rendimiento académico.
+##Criterio 5: específico. Rendimiento académico.  
 Un criterio que, desde el grupo de trabajo, se ha considerado fundamental en el ámbito universitario: la publicación de los datos relativos a la tasa de rendimiento, éxito y evaluación de los alumnos.  
 
-Criterio 6: específico. Matrículas.
+##Criterio 6: específico. Matrículas.  
 Una pauta indispensable en el ámbito académico: los datos relacionados con las matrículas del alumnado durante varios años. Esta información permite conocer la evolución del número de alumnos de diferentes titulaciones, ayudando a identificar su disminución o aumento. Además, la situación actual de recortes en educación supone un imperativo para la publicación de estos datos, puesto que puede facilitar el análisis de la situación de la demanda actual. Sin embargo, estos datos muestran una dificultad añadida: la separación de la información entre antiguas titulaciones y grados supone un obstáculo para la obtención de la cifra total de matrículas.
 
-Criterio 7: específico. Investigación.
+##Criterio 7: específico. Investigación.  
 La labor investigadora de una universidad es el factor que marca la calidad de la misma,  su aportación a la sociedad y la transferencia del conocimiento surgido desde ésta. Por tanto, la publicación de los datos relacionados con la investigación es otro de los criterios básicos que la universidad debe publicar.
 
-Criterio 8: específico. Número de cargos académicos.
+##Criterio 8: específico. Número de cargos académicos.  
 La publicación de los datos referentes a los profesionales que integran la plantilla de la institución es otro de los criterios que cualquier universidad debe considerar propio de un portal de transparencia universitario, dado que el número de profesores e investigadores es otro de los indicadores que marcan la calidad de la institución.
 
-Criterio 9: específico. Personal total de la universidad.
+##Criterio 9: específico. Personal total de la universidad.  
 Por último, la relación del personal total de la universidad debe considerarse otro de los criterios fundamentales de publicación, puesto que el número total de trabajadores de una institución es una información básico que cualquier organismo público debe poner a disposición del ciudadano.
 
 Como modelo de este filtro de transparencia, puede usarse una ficha de este tipo:
