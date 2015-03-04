@@ -38,6 +38,7 @@ La publicación de los datos referentes a los profesionales que integran la plan
 ##Criterio 9: específico. Personal total de la universidad.  
 Por último, la relación del personal total de la universidad debe considerarse otro de los criterios fundamentales de publicación, puesto que el número total de trabajadores de una institución es una información básico que cualquier organismo público debe poner a disposición del ciudadano.
 
+
 Como modelo de este filtro de transparencia, puede usarse una ficha de este tipo:
 
 |Criterio |Tipo |
