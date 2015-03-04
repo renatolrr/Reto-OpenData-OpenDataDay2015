@@ -5,6 +5,10 @@ Como consecuencia, se ha creado una lista de criterios para medir el nivel de tr
 ##Criterio 1: general. Independencia del portal.  
 Se trata del criterio más básico que debe cumplir un portal de transparencia: ¿es este portal independiente o se trata de un apartado incluido dentro de la página de la institución? La elección de este criterio atiende a la organización de la información y a la navegación del usuario dentro del portal, y se refiere directamente al dominio web donde está alojado el servidor. Veamos un ejemplo:
 
+|Caso 1: dependiente |Caso 2: independiente |
+|-----------|----------:|:----------|
+| ugr.es/transparencia | transparente.ugr.es | 
+ 
 
 Caso 1: dependiente
 ugr.es/transparencia
